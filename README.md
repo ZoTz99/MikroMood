@@ -11,5 +11,5 @@ In the directory: "Media/Video/" you can find a pptx files containing the video 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="Media/Images/Connection1.jpg" alt="Image 1" style="width: 50%;">
-  <img src="Media/Images/Connection2.jpg" alt="Image 1" style="width: 30%;">
+  <img src="Media/Images/Connection2.jpg" alt="Image 1" style="width: 50%;">
 </div>
