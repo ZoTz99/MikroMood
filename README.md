@@ -9,10 +9,12 @@ In the directory: "Media/Video/" you can find a pptx files containing the video 
 
 ##Hardware Project Setup
 
-![Alt text](Media/Images/Connection1.jpg)
+
 <img src="Media/Images/Connection1.jpg" alt="Project Logo" width="300">
 
-![Alt text](Media/Images/Connection2.jpg)
 
-![Alt text](Media/Images/Connection3.jpg)
+<img src="Media/Images/Connection2.jpg" alt="Project Logo" width="300">
+
+
+<img src="Media/Images/Connection3.jpg" alt="Project Logo" width="300">
 
