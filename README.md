@@ -10,7 +10,8 @@ In the directory: "Media/Video/" you can find a pptx files containing the video 
 ## Hardware Project Setup
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="Media/Images/Connection1.jpg" alt="Image 1" style="width: 48%;">
-  <img src="Media/Images/Connection2.jpg" alt="Image 1" style="width: 48%;">
-  <img src="Media/Images/Connection3.jpg" alt="Image 1" style="width: 48%;">
+  <img src="Media/Images/Connection1.jpg" alt="Image 1" style="width: 50%;">
+  <img src="Media/Images/Connection2.jpg" alt="Image 1" style="width: 50%;">
+ 
 </div>
+ <img src="Media/Images/Connection3.jpg" alt="Image 1" style="width: 48%;">
