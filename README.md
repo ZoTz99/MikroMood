@@ -14,4 +14,4 @@ In the directory: *"Media/Video/"* you can find a pptx files containing the vide
   <img src="Media/Images/Connection2.jpg" alt="Image 1" style="width: 48%;">
 </div>
 ciao
-<img src="Media/Images/Connection3.jpg" alt="Image 1" style="display: block; margin: 0 auto; width: 48%;">
+<img src="Media/Images/Connection3.jpg" alt="Image 1" style="display: block; margin: 0 auto; width: 20%;">
