@@ -7,14 +7,10 @@ See the MikroMooD_Report.pdf and  Presentation.pdf files for more info!
 In the directory: "Media/Video/" you can find a pptx files containing the video of the testing.  
 !!!Disclaimer!!! In the videos there is some noise added to the audio source due to a typo in the code i've discovered later after all the video recordings. Now the application works correctly and the new video testing will be updated as soon as possible.
 
-##Hardware Project Setup
+## Hardware Project Setup
 
-
-<img src="Media/Images/Connection1.jpg" alt="Project Logo" width="300">
-
-
-<img src="Media/Images/Connection2.jpg" alt="Project Logo" width="300">
-
-
-<img src="Media/Images/Connection3.jpg" alt="Project Logo" width="300">
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="Media/Images/Connection1.jpg" alt="Image 1" style="width: 48%;">
+  <img src="Media/Images/Connection2.jpg" alt="Image 1" style="width: 48%;">
+  <img src="Media/Images/Connection3.jpg" alt="Image 1" style="width: 48%;">
+</div>
